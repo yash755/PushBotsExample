@@ -1,5 +1,5 @@
 # PushBotsExample
-Full Implementation of Push Bots.Dummy tags are taken for testing
+Full Implementation of Push Bots
 
 ##First Refer to https://pushbots.com/developer/docs/android for creating Create GCM Sender ID & GCM API Key 
   
@@ -14,6 +14,7 @@ Full Implementation of Push Bots.Dummy tags are taken for testing
      Clone and run 
 
      Rest you will be able to understand by urself.It's very easy
+     Dummy tags are taken for testing
 
      You are most welcomed to raise issues or solve bugs.
      
