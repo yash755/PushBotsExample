@@ -1,12 +1,12 @@
 # PushBotsExample
 Full Implementation of Push Bots
 
-##First Refer to https://pushbots.com/developer/docs/android for creating Create GCM Sender ID & GCM API Key     
+## First Refer to https://pushbots.com/developer/docs/android for creating Create GCM Sender ID & GCM API Key     
    
 ## Also make new project on PushBot to get AppID
 
 
-####Then you have to:
+#### Then you have to:
      Go to Res folder -> Values --> Open pushbots and change these contents. 
      Change your app ID and Sender ID.
     
@@ -22,12 +22,12 @@ Full Implementation of Push Bots
      headers.put("x-pushbots-secret","4f6d1eaa3ce697bb64a40021864b2ea9");
      
      
-####Note you can run it without any changes also,but in that case my GCM Sender ID & GCM API Key will be used.
+#### Note you can run it without any changes also,but in that case my GCM Sender ID & GCM API Key will be used.
      
      
      
 
-####Clone and run 
+#### Clone and run 
 
      Rest you will be able to understand by urself.It's very easy
      Dummy tags are taken for testing
